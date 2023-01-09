@@ -7,14 +7,14 @@ original colab code link for CovidAnalysis:https://colab.research.google.com/dri
 original colab code link for Logistic Regression:https://colab.research.google.com/drive/18mAQx2Ma1QMsREhTmcUYI9eSlbE8nX0J?usp=sharing
 
 
-
+Scatter Graph: Infection Population On Age Groups
 ![Screenshot](https://s2.loli.net/2023/01/09/VRA7Xu2yWMtJPhS.png)
 
-
+Multi-set Bar Chart: Death Rate On Age Groups
 ![Screenshot](https://s2.loli.net/2023/01/09/NiYFkuOrbTstvj5.png)
 
-
+Covid Infections On Race Groups
 ![Screenshot](https://s2.loli.net/2023/01/09/4TvsXbdDkhMHC6W.png)
 
-
+Logistic Regression Report
 ![Screenshot](https://s2.loli.net/2023/01/09/nKxa5P3cj8esgG6.png)
